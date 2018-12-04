@@ -1,0 +1,18 @@
+{
+  "name": "BotAlexaChannel",
+  "version": "1.0.0",
+  "description": "Bots Nodejs - Alexa",
+  "author": "lbors",
+  "_comment": "dependencies alexa-verifier: ^2.0.1, ask-sdk: ^2.0.9",
+  "contributors": [],
+  "main": "index.js",
+  "dependencies": {
+    "big-integer": "^1.6.36",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "log4js": "^1.1.1",
+    "request": "^2.79.0",
+    "underscore": "^1.8.3",
+    "util": "^0.10.3"
+  }
+}
